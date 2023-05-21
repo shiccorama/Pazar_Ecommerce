@@ -1,0 +1,28 @@
+- Introduction
+- Project preview
+- Creating the project using npx
+- Setting up the VS code environment
+- Tailwindcss setup
+- Creating Header Component
+- Creating Banner Component
+- Creating a custom Slider
+- Configuring react-icons
+- Creating Product Component
+- Creating Footer Component
+- Setting up React-router-dom
+- Creating Dynamic Layout
+- Creating API to fetch product data
+- Passing product Data using loader from react-router-dom
+- Creating ProductCard Component to show the products
+- Creating Dynamic product Info page for each product
+- redux-tookits configuration
+- Creating Slicers and implementing that using dispatch
+- Configuring React-tostify
+- Creating Cart page
+- Configuring redux-persist to save the product in real-time
+- Creating Login Page
+- Creating & Configuring Firebase app
+- Creating Google login & logout method using firebase
+- Implementing Stripe Checkout for Payment
+- Creating Backend Server to configure Stripejs
+- Testing the payment method
